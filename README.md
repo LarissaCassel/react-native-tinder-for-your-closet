@@ -1,8 +1,6 @@
 # Tinder like app for your closet
 
-image 1                   |  Image 2
-:-------------------------:|:-------------------------:
-![](./assets/image1.png)  |  ![](./assets/image2.png)
+![](./assets/image1.png)  
 
 ## Usage:
 
